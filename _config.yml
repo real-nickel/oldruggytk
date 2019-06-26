@@ -1,8 +1,1 @@
-plugins:
-  - jekyll-seo-tag
-  <html>
-  <head>
-    {% include head.html %}
-    {% seo %}
-  </head>
-</html>
+
